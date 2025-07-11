@@ -7,6 +7,6 @@ public class Method
 
     static void hello()
     {
-        System.out.println("Hello, World!");
+        System.out.println("Hello Mr Matloga Sir!");
     }
 }
