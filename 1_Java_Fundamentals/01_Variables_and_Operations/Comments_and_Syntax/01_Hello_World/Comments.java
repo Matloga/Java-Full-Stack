@@ -5,7 +5,7 @@ public class Comments
         // This is a single line comment
         System.out.println("Hello, Mr Matloga Sir here."); // This message will appear on the console.
         /*
-         This is a multi line comment.
+         This is a multi-line comment.
          It can be used in multiple lines.
          Mostly is used to explain something in details.
          */
