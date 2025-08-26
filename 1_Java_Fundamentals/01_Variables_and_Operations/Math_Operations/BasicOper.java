@@ -1,4 +1,4 @@
-// Here is a simple Java program that demonstrates basic arithmetic and other operations
+// Here is a simple Java program that shows the basic arithmetic and other operations
 public class BasicOper {
     public static void main(String[] args) {
         // Declare two integer variables
